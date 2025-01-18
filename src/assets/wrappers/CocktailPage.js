@@ -2,6 +2,7 @@ import styled from "styled-components";
 
 const Wrapper = styled.header`
   text-align: center;
+  background-color: red;
 
   a {
     background: var(--primary-400);
